@@ -7,10 +7,15 @@
 ## DEMONSTRAÇÃO✔
 <p>Abaixo temos as telas do projeto, não temos todas aqui</p>
 <h2>
-Para ter acesso ao projeto, execute a seguinte sequencia de comando:
+Para ter acesso ao projeto, execute a seguinte sequencia de comandos:
+ -npm install
+ -npm run dev
+  pronto!✔
 </h2>
 <img src='./assets/tela1.png'/>
 
 <img src='./assets/tela2.png'/>
 
+<p>Como podemos ver abaixo, só podemos prosseguir com o preenchimento dos dados!!!</p>
 <img src='./assets/multistep.gif'/>
+👨🏻‍💻
